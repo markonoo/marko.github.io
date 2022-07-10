@@ -1,0 +1,45 @@
+<html>
+<body>
+<h1>The Table</h1>
+<h2>Some common HTML Tags</h2>
+<table>
+    <thead>
+      <th>Tag</th>
+      <th>Name</th>
+      <th>Description</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="code">&lt;h1&gt - &lt;h6&gt;</span></td>
+        <td>Heading</td>
+        <td>The heading element.</td>
+      </tr>
+            <tr>
+        <td><span class="code">&lt;a&gt;</span></td>
+        <td>Anchor</td>
+        <td>The anchor Tag in html to include links.</td>
+      </tr>
+            <tr>
+        <td><span class="code">&lt;tbody&gt;</span></td>
+        <td>Table contet</td>
+        <td>The table content element.</td>
+      </tr>
+            <tr>
+        <td><span class="code">&lt;td&gt</span></td>
+        <td>Table Data</td>
+        <td>The table row container.</td>
+      </tr>
+            <tr>
+        <td><span class="code">&lt;trow&gt;</span></td>
+        <td>Table row</td>
+        <td>he The table row container.</td>
+      </tr>
+            <tr>
+        <td><span class="code">&lt;tfoot&gt;</span></td>
+        <td>Table footer</td>
+        <td>The set of rows defining the footer in a table.</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
